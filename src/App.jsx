@@ -29,10 +29,10 @@ function App() {
 
 
       <h3>React Core Concepts 2</h3>
-      <Friends></Friends>
-      <Users></Users>
-      <Team></Team>
-      <Counter></Counter>
+      <Friends />
+      <Users />
+      <Team />
+      <Counter />
       <button onClick={handleClick}>Click Me</button>
       <button onClick={handleClick2}>Click2</button>
       <button onClick={() => {
